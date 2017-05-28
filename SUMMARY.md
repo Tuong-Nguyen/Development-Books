@@ -5,4 +5,5 @@
 * [Robolectric](robolectric.md)
 * [Activity](activity.md)
 * [AsyncTask](asynctask.md)
+* [Loader](loader.md)
 
